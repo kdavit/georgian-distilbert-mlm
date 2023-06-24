@@ -1,0 +1,3 @@
+Perplexity of model_base: 4623.76 loss: 8.4390
+Perplexity of model_pre: 51.35 loss: 3.9369
+perplexity of model_large: 160.64 loss: 5.0791
